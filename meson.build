@@ -33,6 +33,8 @@ catch2 = dependency('catch2-with-main', version : '3.5.4')
 
 core_sources = [
     'src/main.cpp',
+    'src/game/snake.cpp',
+    'src/game/vector2.cpp',
 ]
 
 core_deps = [
