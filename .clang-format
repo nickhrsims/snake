@@ -27,4 +27,8 @@ BraceWrapping:
 
 BracedInitializerIndentWidth: 4
 
+IndentCaseLabels: true
+
+QualifierAlignment: Left
+
 ColumnLimit: 88
